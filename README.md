@@ -8,5 +8,6 @@ bvChat is a chat application that supports a client-server model. Clients are ab
 ``` python3 bvChat-client <IPADDR> <PORT> ```
 
 ## Help Command
-This command will show all available commands to the user while running the client
+This command will show all available commands to the user while running the client.
+
 ```/help```
